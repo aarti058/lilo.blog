@@ -53,27 +53,27 @@ Es gibt viele Behandlungsmöglichkeiten, aber nur wenige davon sind von den Fach
 
 In der Schulintervention bekommen die Kinder von der Schule aus Unterstützung von Therapie- und Heilpädagogik – Fachpersonen. Diese erarbeiten mit den ADHS-Kindern konkrete Verhaltensziele wie zum Beispiel im Unterricht auf seinem Platz sitzen bleiben. Durch regelmässiges Üben und positive Bestärkung soll das Ziel in absehbarer Zeit erreicht werden.
 
-{{<box>}}Eine weitere häufig eingesetzte Therapieform ist die medikamentöse Therapie. Sie wird oft als wertvolle Ergänzung zu den anderen Therapieformen eingesetzt.{{</box>}}
+Eine weitere häufig eingesetzte Therapieform ist die medikamentöse Therapie. Sie wird oft als wertvolle Ergänzung zu den anderen Therapieformen eingesetzt.
 
-{{<box>}}Dies bestätigt uns der Experte Dr. Werner*:,,* *Medikamente können nur begleitend helfen.’’*{{</box>}}
+Dies bestätigt uns der Experte Dr. Werner*:,,* *Medikamente können nur begleitend helfen.’’*{{</box>}}
 
-{{<box>}}Die Fachgesellschaft empfiehlt eine medikamentöse Behandlung bei Kindern ab dem Alter von sechs Jahren. Dabei muss man auf die folgenden drei Empfehlungen achten:{{</box>}}
+Die Fachgesellschaft empfiehlt eine medikamentöse Behandlung bei Kindern ab dem Alter von sechs Jahren. Dabei muss man auf die folgenden drei Empfehlungen achten:
 
 1. Wenn man derart starke ADHS-Symptome hat, dass die schulische Leistungsfähigkeit, die Freizeitaktivitäten des Kindes oder Jugendlichen oder das Zusammenleben mit der Familie beeinträchtigt sind, sollen Medikamente abgegeben werden.
 2. Bei mittleren Symptomen empfiehlt Fachgesellschaft, entweder eine medikamentöse Therapie oder eine Verhaltenstherapie durchzuführen.
 3. Falls die ADHS-Symptome durch die Verhaltenstherapie nicht gelindert werden können, dann werden den Betroffenen Medikamente verschrieben.
 
-{{<box>}}Olivia erzählt uns mit einem Lächeln, wie sie sich beim ersten Einnehmen von Medikamenten (Elvanse) gefühlt hat: *,,Als ich die Medikamente bekam, wusste ich nicht, was mit mir passieren würde. Doch nach einigen Wochen wurde mir klar, dass das Ausprobieren mir nicht schaden würde. Ich habe dann selbst gemerkt, was für ein chaotischer Typ ich wirklich bin. Nach der Einnahme von Medikamenten konnte ich das Chaos, das ich in meinem Kopf hatte in eine Schublade einordnen. ’’*{{</box>}}
+Olivia erzählt uns mit einem Lächeln, wie sie sich beim ersten Einnehmen von Medikamenten (Elvanse) gefühlt hat: *,,Als ich die Medikamente bekam, wusste ich nicht, was mit mir passieren würde. Doch nach einigen Wochen wurde mir klar, dass das Ausprobieren mir nicht schaden würde. Ich habe dann selbst gemerkt, was für ein chaotischer Typ ich wirklich bin. Nach der Einnahme von Medikamenten konnte ich das Chaos, das ich in meinem Kopf hatte in eine Schublade einordnen. ’’*
 
-{{<box>}}Bei einer medikamentösen Therapie ist wichtig, genau darauf zu achten, ob das Medikament unerwünschte Nebenwirkungen auslöst und ob die Dosierung für die einzelne Person passend ist.{{</box>}}
+Bei einer medikamentösen Therapie ist wichtig, genau darauf zu achten, ob das Medikament unerwünschte Nebenwirkungen auslöst und ob die Dosierung für die einzelne Person passend ist.
 
-{{<box>}}Mehrere Untersuchungen der Gehirne von ADHS-Betroffene haben gezeigt, dass bestimmte Bereiche des Gehirnes anders funktionieren und dass bestimmte chemische Verbindungen im Gehirn anders reguliert werden. Medikamente helfen dem Körper, bzw. dem Gehirn, normentsprechend zu funktionieren. Der Wirkstoff, der als Tabletten eingenommen wird, sorgt dafür, dass das Gehirn Außenreize besser filtern kann, indem es die Konzentration der Nervenbotenstoffe Dopamin und Noradrenalin erhöht, die wichtig für die Gedächtnisfunktion sind. So kann der oder die Betroffene Einflüsse von aussen besser verarbeiten und kann sich über längere Zeit auf eine Aufgabe fokussieren.{{</box>}}
+Mehrere Untersuchungen der Gehirne von ADHS-Betroffene haben gezeigt, dass bestimmte Bereiche des Gehirnes anders funktionieren und dass bestimmte chemische Verbindungen im Gehirn anders reguliert werden. Medikamente helfen dem Körper, bzw. dem Gehirn, normentsprechend zu funktionieren. Der Wirkstoff, der als Tabletten eingenommen wird, sorgt dafür, dass das Gehirn Außenreize besser filtern kann, indem es die Konzentration der Nervenbotenstoffe Dopamin und Noradrenalin erhöht, die wichtig für die Gedächtnisfunktion sind. So kann der oder die Betroffene Einflüsse von aussen besser verarbeiten und kann sich über längere Zeit auf eine Aufgabe fokussieren.
 
 ![]()
 
 *,,Die Medikamenten geben dem Betroffenen eine Brücke oder Stützung zur Leistung, aber die Leistung selbst bringst dann du! ’’* – Dr. Werner
 
-{{<box>}}Trotz der positiven Wirkung der Medikamente kann eine Einnahme von Medikamenten (bspw. Medikinet, Ritalin, Concerta oder das bekannte, in der Schweiz mittlerweile nicht mehr erhältliche, Adderall) auch zu unerwünschten Nebenwirkungen führen. Olivias C.s Sohn litt kurz nach der ersten Einnahme beispielsweise an starken Kopfschmerzen, Schlafstörungen und Appetitverlust. Diese Symptome seien aber nach ca. drei Wochen wieder verschwunden.{{</box>}}
+Trotz der positiven Wirkung der Medikamente kann eine Einnahme von Medikamenten (bspw. Medikinet, Ritalin, Concerta oder das bekannte, in der Schweiz mittlerweile nicht mehr erhältliche, Adderall) auch zu unerwünschten Nebenwirkungen führen. Olivias C.s Sohn litt kurz nach der ersten Einnahme beispielsweise an starken Kopfschmerzen, Schlafstörungen und Appetitverlust. Diese Symptome seien aber nach ca. drei Wochen wieder verschwunden.
 
 ![]()
 

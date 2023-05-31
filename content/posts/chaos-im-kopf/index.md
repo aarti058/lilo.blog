@@ -4,7 +4,7 @@ date = "2023-05-31"
 draft = true
 pinned = true
 tags = ["Reportage", "Deutsch"]
-image = "https://www.bing.com/images/search?view=detailV2&ccid=Phs1BzpY&id=BACDEFBBC88E47261E3C6242337C318F14854ED6&thid=OIP.Phs1BzpYMK1dn6tdNXnvEAHaDt&mediaurl=https%3a%2f%2fwww.kinderaerzte-nabburg.de%2fwp-content%2fuploads%2f2019%2f06%2fadhs_neu.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3e1b35073a5830ad5d9fab5d3579ef10%3frik%3d1k6FFI8xfDNCYg%26pid%3dImgRaw%26r%3d0&exph=440&expw=880&q=adhs&simid=607999307535487725&FORM=IRPRST&ck=6FC260F8A429578FE3E6AAAEEA0637EB&selectedIndex=4&ajaxhist=0&ajaxserp=0"
+image = ""
 description = ""
 +++
 {{<lead>}}Rund drei bis fünf Prozent der Kinder in der Schweiz sind von ADHS betroffen. Die Behandlung gegen ADHS beruht auf Medikamenten; diese werden oft kritisiert. Doch wie gut ist die Einnahme von Medikamenten gegen ADHS wirklich? Mit Hilfe von zwei interessanten Interviews, mit einer betroffenen Person, Olivia C. (40 Jahre alt, und ebenfalls Mutter von einem Kind mit AHDS), und einem Experten, Dr. Werner, ein Facharzt für Kinder- und Jugendpsychiatrie, gehen wir dieser Frage nach.{{</lead>}}

@@ -79,20 +79,20 @@ Trotz der positiven Wirkung der Medikamente kann eine Einnahme von Medikamenten 
 
 ***Alternative Behandlung***
 
-{{<box>}}Auch alternative Therapieformen, welche gänzlich medikamentenfrei ablaufen, werden heute vermehrt angewendet. Diese Therapieform nennt man **multimodale Therapie.**{{</box>}}
+Auch alternative Therapieformen, welche gänzlich medikamentenfrei ablaufen, werden heute vermehrt angewendet. Diese Therapieform nennt man **multimodale Therapie.**
 
-{{<box>}}Für junge Betroffene gibt es beispielsweise Gruppentherapien, welche darauf abzielen, in und durch die Gruppenarbeit die Konzentrationsfähigkeiten und die sozialen Kompetenzen der Kinder zu stärken und ihre Hyperaktivitäts- und Impulskontrolle zu regulieren. Das soll dann auch zu positiverer Beziehung im Umfeld der Betroffenen führen.{{</box>}}
+Für junge Betroffene gibt es beispielsweise Gruppentherapien, welche darauf abzielen, in und durch die Gruppenarbeit die Konzentrationsfähigkeiten und die sozialen Kompetenzen der Kinder zu stärken und ihre Hyperaktivitäts- und Impulskontrolle zu regulieren. Das soll dann auch zu positiverer Beziehung im Umfeld der Betroffenen führen.
 
-{{<box>}}In der multimodalen Therapie wird weiter viel auf Aspekte wie Ernährungsumstellung und Bewegung geachtet.  Bei der Ernährungsumstellung schaut man, dass Kinder nicht zu viele zuckerhaltige Lebensmittel, Säfte oder Fertigprodukte konsumieren. Eine derartige Ernährungsweise führt nämlich dazu, dass Betroffene einen Mangel an Nährstoffen aufweisen, wodurch die Nerven eher strapaziert werden.{{</box>}}
+In der multimodalen Therapie wird weiter viel auf Aspekte wie Ernährungsumstellung und Bewegung geachtet.  Bei der Ernährungsumstellung schaut man, dass Kinder nicht zu viele zuckerhaltige Lebensmittel, Säfte oder Fertigprodukte konsumieren. Eine derartige Ernährungsweise führt nämlich dazu, dass Betroffene einen Mangel an Nährstoffen aufweisen, wodurch die Nerven eher strapaziert werden.
 
-{{<box>}}Häufig nehmen Betroffene zusätzlich zu ihren gesunden Mahlzeiten auch Ergänzungspräparate wie Omega 3, Vitamin B oder Kupfer ein. Man kann fast sagen, dass die Betroffenen so die notwendige «Nervennahrung» einnehmen, die sie zu einer Regulierung ihrer Symptome brauchen.{{</box>}}
+Häufig nehmen Betroffene zusätzlich zu ihren gesunden Mahlzeiten auch Ergänzungspräparate wie Omega 3, Vitamin B oder Kupfer ein. Man kann fast sagen, dass die Betroffenen so die notwendige «Nervennahrung» einnehmen, die sie zu einer Regulierung ihrer Symptome brauchen.
 
-{{<box>}}Bewegung ist ebenfalls sehr wichtig, denn Kinder mit ADHS haben einen starken Drang nach Bewegung. Wenn diesem Verlangen nach Bewegung nicht nachgegeben werden kann, kann dies die ADHS-Symptome verstärken. Durch Bewegung können die Symptome jedoch eher kontrolliert werden. Es lohnt sich also, den Betroffenen durch Spiel und Sport einen Raum zum Austoben zu ermöglichen.  Z.B. regelmässig Sport in einem Verein machen.{{</box>}}
+Bewegung ist ebenfalls sehr wichtig, denn Kinder mit ADHS haben einen starken Drang nach Bewegung. Wenn diesem Verlangen nach Bewegung nicht nachgegeben werden kann, kann dies die ADHS-Symptome verstärken. Durch Bewegung können die Symptome jedoch eher kontrolliert werden. Es lohnt sich also, den Betroffenen durch Spiel und Sport einen Raum zum Austoben zu ermöglichen.  Z.B. regelmässig Sport in einem Verein machen.
 
-{{<box>}}Mit einem positiven Umfeld können sich die Kinder und Jugendliche wohl fühlen, deshalb möchten wir alle Leser*innen darauf aufmerksam machen, dass sie Kinder und Jugendliche, die von ADHS betroffen sind, unterstützen sollen. Ob die Betroffenen Medikamente einnehmen wollen oder nicht, ist ihre Entscheidung und diese sollte man respektieren. {{</box>}}
+Mit einem positiven Umfeld können sich die Kinder und Jugendliche wohl fühlen, deshalb möchten wir alle Leser*innen darauf aufmerksam machen, dass sie Kinder und Jugendliche, die von ADHS betroffen sind, unterstützen sollen. Ob die Betroffenen Medikamente einnehmen wollen oder nicht, ist ihre Entscheidung und diese sollte man respektieren. 
 
-{{<box>}}Die Einnahme von Medikamenten kann sehr hilfreich sein und führt zu besserer Konzentration und zu effizientem Lösen von Aufgaben, wie uns Olivia C. erzählt. Jedoch, wie alle Medikamente, können auch diese zu starken Nebenwirkungen führen. Wie uns der Facharzt für Kinder- und Jugendpsychiatrie, Dr. Werner, erzählte, gibt es auch andere Therapieformen. Die Medikamentöse Therapie sollten als letzte Option betrachtet werden.{{</box>}}
+Die Einnahme von Medikamenten kann sehr hilfreich sein und führt zu besserer Konzentration und zu effizientem Lösen von Aufgaben, wie uns Olivia C. erzählt. Jedoch, wie alle Medikamente, können auch diese zu starken Nebenwirkungen führen. Wie uns der Facharzt für Kinder- und Jugendpsychiatrie, Dr. Werner, erzählte, gibt es auch andere Therapieformen. Die Medikamentöse Therapie sollten als letzte Option betrachtet werden.
 
-{{<box>}}Zum Schluss möchten wir uns noch bei der Betroffenen Olivia C. und dem Experten Dr. Werner, die sich für uns Zeit genommen haben, um unsere Interviewfragen zu beantworten bedanken.{{</box>}}
+Zum Schluss möchten wir uns noch bei der Betroffenen Olivia C. und dem Experten Dr. Werner, die sich für uns Zeit genommen haben, um unsere Interviewfragen zu beantworten bedanken.
 
-# **BILIOGRAFIE!!!! (BOX & BILDER EINFÜGEN)**
+# **Bilder!!!!**

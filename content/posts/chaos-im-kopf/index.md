@@ -3,7 +3,7 @@ title = "Chaos im Kopf"
 date = "2023-05-23"
 draft = true
 pinned = true
-tags = []
+tags = ["Reportage", "Deutsch"]
 description = ""
 +++
 {{<lead>}}Rund drei bis fünf Prozent der Kinder in der Schweiz sind von ADHS betroffen. Die Behandlung gegen ADHS beruht auf Medikamenten; diese werden oft kritisiert. Doch wie gut ist die Einnahme von Medikamenten gegen ADHS wirklich? Mit Hilfe von zwei interessanten Interviews, mit einer betroffenen Person, Olivia C. (40 Jahre alt, und ebenfalls Mutter von einem Kind mit AHDS), und einem Experten, Dr. Werner, ein Facharzt für Kinder- und Jugendpsychiatrie, gehen wir dieser Frage nach.{{</lead>}}

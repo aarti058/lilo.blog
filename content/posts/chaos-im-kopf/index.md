@@ -1,8 +1,8 @@
 +++
 title = "Chaos im Kopf"
 date = "2023-05-31"
-draft = true
-pinned = true
+draft = false
+pinned = false
 tags = ["Reportage", "Deutsch"]
 image = "adhs_titelbild.jpg"
 description = ""

@@ -49,7 +49,7 @@ Es gibt verschiedene Faktoren, die zu ADHS führen. Die genaue Ursache jedoch ni
 
 Es gibt viele Behandlungsmöglichkeiten, aber nur wenige davon sind von den Fachpersonen als wirkungsvoll eingestuft worden. Es gibt einerseits die Beratung von Eltern und Kindern als mögliche Therapieform. Hierbei werden die Störungsbilder ADHS und die daraus im Alltag entstehenden Probleme von Seiten der Fachperson her erläutert und gemeinsam wird nach hilfreichen Strategien gesucht, durch welche die Probleme vermindert oder gar behoben werden können.
 
- *,,Sobald man die Diagnose ADHS hat, muss man so schnell wie möglich handeln, denn Kinder leiden besonders stark darunter! ’’* - Olivia C. 
+>  *,,Sobald man die Diagnose ADHS hat, muss man so schnell wie möglich handeln, denn Kinder leiden besonders stark darunter! ’’* - Olivia C. 
 
 In der Schulintervention bekommen die Kinder von der Schule aus Unterstützung von Therapie- und Heilpädagogik – Fachpersonen. Diese erarbeiten mit den ADHS-Kindern konkrete Verhaltensziele wie zum Beispiel im Unterricht auf seinem Platz sitzen bleiben. Durch regelmässiges Üben und positive Bestärkung soll das Ziel in absehbarer Zeit erreicht werden.
 
@@ -71,7 +71,7 @@ Bei einer medikamentösen Therapie ist wichtig, genau darauf zu achten, ob das M
 
 Mehrere Untersuchungen der Gehirne von ADHS-Betroffene haben gezeigt, dass bestimmte Bereiche des Gehirnes anders funktionieren und dass bestimmte chemische Verbindungen im Gehirn anders reguliert werden. Medikamente helfen dem Körper, bzw. dem Gehirn, normentsprechend zu funktionieren. Der Wirkstoff, der als Tabletten eingenommen wird, sorgt dafür, dass das Gehirn Außenreize besser filtern kann, indem es die Konzentration der Nervenbotenstoffe Dopamin und Noradrenalin erhöht, die wichtig für die Gedächtnisfunktion sind. So kann der oder die Betroffene Einflüsse von aussen besser verarbeiten und kann sich über längere Zeit auf eine Aufgabe fokussieren.
 
-*,,Die Medikamenten geben dem Betroffenen eine Brücke oder Stützung zur Leistung, aber die Leistung selbst bringst dann du! ’’* – Dr. Werner
+> *,,Die Medikamenten geben dem Betroffenen eine Brücke oder Stützung zur Leistung, aber die Leistung selbst bringst dann du! ’’* – Dr. Werner
 
 ![Abbildung 3: Apotheke Kirchenfeld: Diese Medikamente werden oft von den Klienten gebraucht. (Aufnahme am 27.03.2023. Foto: Aarti Naguleswaran)](apotheke.jpg)
 

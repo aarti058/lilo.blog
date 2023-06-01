@@ -6,7 +6,7 @@ description = ""
 +++
 ![](/img/default-author.jpg)
 
-## Aarti
+## Aartiblog
 
 mail@example.org
 

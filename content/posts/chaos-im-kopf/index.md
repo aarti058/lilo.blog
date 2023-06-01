@@ -25,7 +25,7 @@ Diese Verhaltensnormabweichung kann in drei Kategorien entlang ihrer Hauptabweic
 2. Starke Impulsivität 
 3. Ausgeprägte körperliche Unruhe (Hyperaktivität)
 
-![Abbildung 1: ADS und ADHS (abgerufen am 27.04.2023)]()
+![Abbildung 1: ADS und ADHS (abgerufen am 27.04.2023)](adhs-kind.jpg)
 
 Mit ADHS werden häufig insbesondere negative Vorurteile in Verbundenheit gebracht, beispielsweise, dass man rund um die Uhr hyperaktiv und im Aufgabenlösen eingeschränkt ist.  Tatsächlich bringt ADHS auch Chancen mit sich. Betroffene können ihre Impulsivität zum Beispiel in Spontanität, Flexibilität und in Kreativität ausdrucken. Eigenschaften, welche Personen ohne Normabweichungen im Verhalten vielleicht eher schwerfallen. Nichtsdestotrotz darf man nicht beschönigen, dass ADHS, insbesondere wenn unentdeckt und unbehandelt, Verhaltensschwierigkeiten bei Kindern auslösen kann.
 
@@ -37,7 +37,7 @@ Im Jugendalter kann es vorkommen, dass Betroffene die sozialen Regeln nicht beac
 
 Ein weiteres, eher weniger bekanntes Symptom von ADHS-Patienten ist das Auftreten von Ticks. Diese Ticks ähneln denen einer Person mit Tourette-Syndrom und sind z.B kleine Bewegungen wie Augenblinzeln oder vokale Ticks wie Lautäusserungen. Diese Ticks können bereits in jungen Kinderjahren auftreten und sich über das Jugendalter bis zum Erwachsenenalter verfestigen.
 
-***Was führt zu ADHS?***
+##### ***Was führt zu ADHS?***
 
 Es gibt verschiedene Faktoren, die zu ADHS führen. Die genaue Ursache jedoch nicht vollständig erforscht. Die wichtigsten Faktoren, welche zur Diagnose ADHS führen können, sind:
 
@@ -65,19 +65,19 @@ Die Fachgesellschaft empfiehlt eine medikamentöse Behandlung bei Kindern ab dem
 
 Olivia erzählt uns mit einem Lächeln, wie sie sich beim ersten Einnehmen von Medikamenten (Elvanse) gefühlt hat: *,,Als ich die Medikamente bekam, wusste ich nicht, was mit mir passieren würde. Doch nach einigen Wochen wurde mir klar, dass das Ausprobieren mir nicht schaden würde. Ich habe dann selbst gemerkt, was für ein chaotischer Typ ich wirklich bin. Nach der Einnahme von Medikamenten konnte ich das Chaos, das ich in meinem Kopf hatte in eine Schublade einordnen. ’’*
 
+![Abbildung 2: Olivia C.s Medikamente: diese Medikamente nimmt Olivia seit Januar 2023. (Aufnahme am 27.03.2023. Foto: Mina Collin)](medikamente.jpg)
+
 Bei einer medikamentösen Therapie ist wichtig, genau darauf zu achten, ob das Medikament unerwünschte Nebenwirkungen auslöst und ob die Dosierung für die einzelne Person passend ist.
 
 Mehrere Untersuchungen der Gehirne von ADHS-Betroffene haben gezeigt, dass bestimmte Bereiche des Gehirnes anders funktionieren und dass bestimmte chemische Verbindungen im Gehirn anders reguliert werden. Medikamente helfen dem Körper, bzw. dem Gehirn, normentsprechend zu funktionieren. Der Wirkstoff, der als Tabletten eingenommen wird, sorgt dafür, dass das Gehirn Außenreize besser filtern kann, indem es die Konzentration der Nervenbotenstoffe Dopamin und Noradrenalin erhöht, die wichtig für die Gedächtnisfunktion sind. So kann der oder die Betroffene Einflüsse von aussen besser verarbeiten und kann sich über längere Zeit auf eine Aufgabe fokussieren.
 
-![]()
-
 *,,Die Medikamenten geben dem Betroffenen eine Brücke oder Stützung zur Leistung, aber die Leistung selbst bringst dann du! ’’* – Dr. Werner
+
+![Abbildung 3: Apotheke Kirchenfeld: Diese Medikamente werden oft von den Klienten gebraucht. (Aufnahme am 27.03.2023. Foto: Aarti Naguleswaran)](apotheke.jpg)
 
 Trotz der positiven Wirkung der Medikamente kann eine Einnahme von Medikamenten (bspw. Medikinet, Ritalin, Concerta oder das bekannte, in der Schweiz mittlerweile nicht mehr erhältliche, Adderall) auch zu unerwünschten Nebenwirkungen führen. Olivias C.s Sohn litt kurz nach der ersten Einnahme beispielsweise an starken Kopfschmerzen, Schlafstörungen und Appetitverlust. Diese Symptome seien aber nach ca. drei Wochen wieder verschwunden.
 
-![]()
-
-***Alternative Behandlung***
+##### ***Alternative Behandlung***
 
 Auch alternative Therapieformen, welche gänzlich medikamentenfrei ablaufen, werden heute vermehrt angewendet. Diese Therapieform nennt man **multimodale Therapie.**
 
@@ -94,5 +94,3 @@ Mit einem positiven Umfeld können sich die Kinder und Jugendliche wohl fühlen,
 Die Einnahme von Medikamenten kann sehr hilfreich sein und führt zu besserer Konzentration und zu effizientem Lösen von Aufgaben, wie uns Olivia C. erzählt. Jedoch, wie alle Medikamente, können auch diese zu starken Nebenwirkungen führen. Wie uns der Facharzt für Kinder- und Jugendpsychiatrie, Dr. Werner, erzählte, gibt es auch andere Therapieformen. Die Medikamentöse Therapie sollten als letzte Option betrachtet werden.
 
 Zum Schluss möchten wir uns noch bei der Betroffenen Olivia C. und dem Experten Dr. Werner, die sich für uns Zeit genommen haben, um unsere Interviewfragen zu beantworten bedanken.
-
-# **Bilder!!!!**

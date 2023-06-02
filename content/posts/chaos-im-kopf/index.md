@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Reportage", "Deutsch"]
 image = "adhs_titelbild.jpg"
-description = ""
+description = "Sollen Kinder und Jugendliche Medikamente gegen ADHS einnehmen?"
 +++
 {{<lead>}}Rund drei bis fünf Prozent der Kinder in der Schweiz sind von ADHS betroffen. Die Behandlung gegen ADHS beruht auf Medikamenten; diese werden oft kritisiert. Doch wie gut ist die Einnahme von Medikamenten gegen ADHS wirklich? Mit Hilfe von zwei interessanten Interviews, mit einer betroffenen Person, Olivia C. (40 Jahre alt, und ebenfalls Mutter von einem Kind mit AHDS), und einem Experten, Dr. Werner, ein Facharzt für Kinder- und Jugendpsychiatrie, gehen wir dieser Frage nach.{{</lead>}}
 

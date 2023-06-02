@@ -55,7 +55,7 @@ In der Schulintervention bekommen die Kinder von der Schule aus Unterstützung v
 
 Eine weitere häufig eingesetzte Therapieform ist die medikamentöse Therapie. Sie wird oft als wertvolle Ergänzung zu den anderen Therapieformen eingesetzt.
 
-Dies bestätigt uns der Experte Dr. Werner*:,,* *Medikamente können nur begleitend helfen.’’*{{</box>}}
+Dies bestätigt uns der Experte Dr. Werner*:,,* *Medikamente können nur begleitend helfen.’’*
 
 Die Fachgesellschaft empfiehlt eine medikamentöse Behandlung bei Kindern ab dem Alter von sechs Jahren. Dabei muss man auf die folgenden drei Empfehlungen achten:
 
